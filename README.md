@@ -4,7 +4,7 @@ Web fan-game que consiste em clicar na tela para pegar as Butterfree que aparere
 
 **[Clique aqui para jogar!](http://www.augustofrr.ga)**
 
-Jogo utilizando HTML, CSS e JavaScript.
+Jogo criado utilizando HTML, CSS e JavaScript.
 
 Pegue todas antes que o tempo se esgote. Você perde um coração para cada Butterfree que deixar escapar!
 
