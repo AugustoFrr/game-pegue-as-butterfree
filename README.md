@@ -6,7 +6,7 @@ Web fan-game que consiste em clicar na tela para pegar as Butterfree que aparere
 
 Jogo utilizando HTML, CSS e JavaScript.
 
-Pegue todas as Butterfree antes que o tempo se esgote!
+Pegue todas antes que o tempo se esgote. Você perde um coração para cada Butterfree que deixar escapar!
 
 A dificuldade está relacionada ao intervalo de spawn delas. No nível “Infinite”, a dificuldade aumenta conforme o número de Butterfree pegas.
 
