@@ -1,0 +1,89 @@
+html{
+    cursor: url(imagens/pokebola.png) 30 30, default;
+}
+
+body{
+
+    background-image: url(imagens/watermark.png), url(imagens/bg.png);
+    background-position: left top fixed, left top;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 100px, cover;
+}
+
+h5, .span {
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+#logo{
+    position: relative;
+    top: 20px;
+    animation-name: logo;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+    animation-direction: alternate;
+}
+
+.butterfree{
+    width: 110px;
+    height: 110px;
+}
+
+.butterfree1{
+    width: 130px;
+    height: 130px;
+}
+
+.butterfree2{
+    width: 150px;
+    height: 150px;
+}
+
+.esquerda{
+    transform: scaleX(1);
+}
+
+.direita {
+    transform: scaleX(-1);
+}
+
+.painel{
+    text-align: center;
+    position: absolute;
+    width: 200px;
+    padding: 10px;
+    bottom: 5px;
+    left: 5px;
+    border-radius: 10px;
+    background-color: white;
+    opacity: 0.9;
+}
+
+.cronometro{    
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.disable-select {
+    user-select: none;
+   -webkit-user-select: none;
+   -khtml-user-select: none; 
+   -moz-user-select: none;
+   -ms-user-select: none; 
+}
+
+@-webkit-keyframes logo {
+    from{top: 50px;}
+    to {top: 0px;}
+}  
+  
+@keyframes logo {
+    from{top: 50px;}
+    to {top: 0px;}  
+}
+
+
+
+
