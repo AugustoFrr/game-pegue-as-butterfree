@@ -1,6 +1,6 @@
 ## Pegue as Butterfree/Butterfree Catch!
 
-Web fan-game que consiste em clicar na tela para pegar as Butterfree que aparerecem.
+Web fan-game que consiste em clicar na tela para pegar as Butterfree que aparecem.
 
 **[Clique aqui para jogar!](http://www.augustofrr.ga)**
 
