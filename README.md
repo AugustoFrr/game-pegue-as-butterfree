@@ -2,7 +2,7 @@
 
 Web fan-game que consiste em clicar na tela para pegar as Butterfree que aparecem.
 
-**[Clique aqui para jogar!](http://www.augustofrr.ga)**
+**[Clique aqui para jogar!](http://www.augustofrr.ga/butterfree/)**
 
 Jogo criado utilizando HTML, CSS e JavaScript.
 
